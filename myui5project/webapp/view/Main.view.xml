@@ -1,0 +1,4 @@
+<minion:View xmlns:minion="sap.ui.core.mvc" xmlns="sap.m" 
+             controllerName="mickey.controller.Main">
+    <Button text="This is New Button" press="anotherFx"></Button>
+</minion:View>
